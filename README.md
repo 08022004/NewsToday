@@ -35,7 +35,7 @@ This is a web based application developed for providing the information about th
 ### Privacy policy -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+![Screenshot 2022-09-25 privacypolicy](https://user-images.githubusercontent.com/109748616/192114069-6cab3cbf-bdbe-4233-8bed-3cbdb1222d08.jpg)
 
 
 
