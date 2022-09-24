@@ -27,9 +27,8 @@ This is a web based application developed for providing the information about th
 
 ### About Us -
 
+![Screenshot 2022-09-25 aboutus](https://user-images.githubusercontent.com/109748616/192114298-d5e1ca7d-3641-4e16-8b2d-0d9d6343e9e9.jpg)
 
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
 
 
 ### Privacy policy -
