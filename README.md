@@ -34,13 +34,15 @@ This is a web based application developed for providing the information about th
 ### Privacy policy -
 
 
-![Screenshot 2022-09-25 privacypolicy](https://user-images.githubusercontent.com/109748616/192114069-6cab3cbf-bdbe-4233-8bed-3cbdb1222d08.jpg)
+![Screenshot 2022-10-21 185436](https://user-images.githubusercontent.com/109748616/197207122-eb6a26c7-0dba-4ce9-9287-eb0e01b97c14.jpg)
+
 
 
 
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- wordpress
 - HTML
 - CSS
 - Bootstrap
