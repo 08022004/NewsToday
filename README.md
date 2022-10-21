@@ -1,5 +1,5 @@
-# NewsToday
-# ✨ News Today  ✨
+# TrueScoop
+# ✨ TrueScoop ✨
 
 This is a web based application developed for providing the information about the current events in india.
 
